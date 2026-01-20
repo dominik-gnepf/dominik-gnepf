@@ -1,32 +1,17 @@
-# dominik-gnepf
+<!-- ========================================================= -->
+<!-- dark terminal-style github profile for dominik-gnepf     -->
+<!-- ========================================================= -->
 
-Datacenter · Network · Infrastructure  
-Automation · Linux · Homelab
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dominik-gnepf/dominik-gnepf/main/assets/banner-dark.svg" />
+</p>
 
----
+```bash
+$ whoami
+dominik-gnepf
 
-## focus
-- network & datacenter infrastructure
-- reproducible systems
-- automation over manual work
-- clean, documented setups
+$ role
+datacenter / network / infrastructure engineer
 
-## projects
-- **homelab** — multi-node proxmox, firewall/router separation  
-- **homelabflix** — monitoring dashboard (netflix-style ui)  
-- **finance tracker** — self-hosted, privacy-first  
-- **exam & poc labs** — repeatable training environments
-
----
-
-## principles
-- boring infrastructure scales
-- if it’s not automated, it’s fragile
-- docs are part of the system
-- visibility beats guessing
-
----
-
-## contact
-- github: **@dominik-gnepf**
-
+$ mindset
+automation first · boring scales · visibility matters
