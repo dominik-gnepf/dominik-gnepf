@@ -1,54 +1,32 @@
-# 👋 Hi, I'm Dominik
+# dominik-gnepf
 
-**Datacenter IT & Network Engineer**  
-Infrastructure • Networking • Automation • Homelabs
-
----
-
-### 🧠 What I do
-- Design & operate **datacenter and enterprise network infrastructures**
-- Build **secure, reproducible homelab environments**
-- Automate systems using **Infrastructure as Code**
-- Translate complex systems into **clear documentation**
+Datacenter · Network · Infrastructure  
+Automation · Linux · Homelab
 
 ---
 
-### 🛠 Tech Stack (daily drivers)
-**Networking**
-- VyOS · OPNsense · VLANs · Routing · Firewalls · DHCP · DNS
+## focus
+- network & datacenter infrastructure
+- reproducible systems
+- automation over manual work
+- clean, documented setups
 
-**Virtualization & Systems**
-- Proxmox · Linux (Ubuntu/Debian) · Docker · Containers
-
-**Automation & IaC**
-- Ansible · Terraform · GitHub Actions · Bash · Python
-
-**Monitoring & Ops**
-- Prometheus · Grafana · ELK · Uptime Kuma
-
----
-
-### 🧪 Current Projects
-- 🏠 **Advanced Homelab** (multi-node Proxmox, firewall/router separation)
-- 📊 **Self-hosted Finance & Investment Tracker**
-- 📺 **HomeLabFlix** – monitoring dashboard with a Netflix-style UI
-- 🤖 AI-assisted tools for diagrams, documentation & learning
+## projects
+- **homelab** — multi-node proxmox, firewall/router separation  
+- **homelabflix** — monitoring dashboard (netflix-style ui)  
+- **finance tracker** — self-hosted, privacy-first  
+- **exam & poc labs** — repeatable training environments
 
 ---
 
-### 📚 Learning & Focus
-- Advanced networking & security
-- Datacenter-scale operations
-- Reliability & observability
-- Clean automation patterns
+## principles
+- boring infrastructure scales
+- if it’s not automated, it’s fragile
+- docs are part of the system
+- visibility beats guessing
 
 ---
 
-### 📫 Get in touch
-- GitHub: `@yourusername`
-- LinkedIn: *(optional)*
-- Email: *(optional)*
+## contact
+- github: **@dominik-gnepf**
 
----
-
-> _“Make infrastructure boring. Boring scales.”_
