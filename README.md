@@ -29,17 +29,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/dominik-gnepf">
-    <img width="80%" src="https://streak-stats.demolab.com?user=dominik-gnepf&theme=onedark&hide_border=true" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/dominik-gnepf">
-    <img src="https://github-profile-trophy.vercel.app/?username=dominik-gnepf&theme=onedark&no-frame=true&row=1&column=6" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/dominik-gnepf?tab=followers">
